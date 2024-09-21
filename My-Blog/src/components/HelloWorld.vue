@@ -10,6 +10,7 @@ defineProps({
 <template>
   <div class="greetings">
     <h1>肖一飞的博客</h1>
+    <h1>祝 唯唯 今天玩的开心</h1>
     <h1 class="green">{{ msg }}</h1>
     <h3>
       You’ve successfully created a project with
